@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonagamerpro1234&repo=advancedchat)](https://github.com/jonagamerpro1234/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonagamerpro1234&repo=multioptions)](https://github.com/jonagamerpro1234/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonagamerpro1234&repo=advancedchat&theme=prussian)](https://github.com/jonagamerpro1234/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonagamerpro1234&repo=multioptions&theme=prussian)](https://github.com/jonagamerpro1234/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&theme=prussian)](https://github.com/jonagamerpro1234/github-readme-stats)
