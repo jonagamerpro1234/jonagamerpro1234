@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&theme=prussian)](https://github.com/jonagamerpro1234/github-readme-stats) 
-
 ![stats]
 
 
