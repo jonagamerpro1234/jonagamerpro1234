@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AdvancedChat
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Java
 
 ![stats]
 
