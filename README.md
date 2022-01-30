@@ -1,11 +1,12 @@
 [stats]: https://github-readme-stats.vercel.app/api?username=jonagamerpro1234&show_icons=true&theme=prussian
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&layout=compact&show_icons=true&theme=prussian
 
 ### Hi there 👋
 
 - 🔭 I’m currently working on My plugins for Minecraft Server
 - 🌱 I’m currently learning Java and C#
 
-![stats]
+![stats] ![Top Langs]
 
 
 <!--
