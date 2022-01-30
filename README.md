@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on AdvancedChat
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on My plugins for Minecraft Server
+- 🌱 I’m currently learning Java and C#
 
 ![stats]
 
