@@ -1,5 +1,4 @@
 [stats]: https://github-readme-stats.vercel.app/api?username=jonagamerpro1234&show_icons=true&theme=dark
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&layout=compact&show_icons=true&theme=prussian
 [a]: https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&show_icons=true&theme=dark 
 ### Hi there 👋
 
