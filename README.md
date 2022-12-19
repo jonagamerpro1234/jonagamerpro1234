@@ -1,9 +1,9 @@
 [stats]: https://github-readme-stats.vercel.app/api?username=jonagamerpro1234&show_icons=true&theme=dark
 [a]: https://github-readme-stats.vercel.app/api/top-langs/?username=jonagamerpro1234&show_icons=true&theme=dark 
-### Hi there 👋
+### Hola 👋
 
-- 🔭 I’m currently working on My plugins for Minecraft Server
-- 🌱 I’m currently learning Java and C#
+- 🔭 Actualmente estoy trabajando en Mis plugins para Minecraft Server
+- 🌱 Actualmente estoy aprendiendo Java y JavaScript
 
 ![stats] ![a]
 
